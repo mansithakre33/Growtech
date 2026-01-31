@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Mansi%20Thakre%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Katni, Madhya Pradesh, India**  
+📍 Based in **Indore, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
-🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
+🎯 understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
 🚀 Experienced in **frontend architecture, product design, and UI engineering**, with an eye for both **performance and aesthetics**.  
 ⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**.
